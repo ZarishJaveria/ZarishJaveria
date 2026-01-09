@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat"/>
 
 ## Hi there 👋 I'm Zarish Javeria  
+💡 *Building my journey in AI, LLMs, and Python — one project & one video at a time.*
 
 🎓 **BCA Graduate | Beginner Python Learner | LLM & Prompt Engineering Enthusiast | Tech Content Creator**
 
@@ -13,21 +14,39 @@ I enjoy learning new technologies and sharing my journey through my YouTube chan
 
 ---
 
-### 🌱 What I'm Currently Learning
-- Python (Beginner Level)  
-- Prompt Engineering  
-- Large Language Models (LLMs)  
-- Basics of Artificial Intelligence  
-- Web Development  
+## 🌱 What I’m Learning Right Now
+<div align="center">
+
+| 🧠 AI & LLMs | 🐍 Python | 🌐 Web | ✨ Prompting |
+|------------|---------|-------|-------------|
+| Large Language Models | Beginner Python | HTML & CSS | AI Prompt Engineering |
+| AI Fundamentals | Automation Basics | GitHub Pages | Prompt Design |
+
+</div>
 
 ---
 
-### 🎥 About PeachyCode
-I create content about:
-- AI tools & LLMs  
-- Programming for beginners  
-- Tech tutorials  
-- Career & learning guidance  
+## 🎥 PeachyCode — My Tech YouTube
+<div align="center">
+
+🍑 **PeachyCode** is where I share my journey into AI & coding  
+through simple, beginner-friendly videos.
+
+<br/>
+
+🚀 **What you’ll find here**
+  
+🤖 AI & LLMs  
+🐍 Python for beginners  
+🧠 Prompt engineering  
+💻 Tech tutorials  
+
+<br/>
+
+👉 **Watch here:**  
+[https://www.youtube.com/@PeachyCode-j6x](https://www.youtube.com/@PeachyCode-j6x)
+
+</div>
 
 ---
 
@@ -50,28 +69,37 @@ I create content about:
 
 ---
 
-### 📌 GitHub Activity
-![Followers](https://img.shields.io/github/followers/ZarishJaveria?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ZarishJaveria?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue?style=for-the-badge)
+### 🔭 What I’m Working On
+- Creating beginner-friendly AI & LLM tutorials on PeachyCode  
+- Learning how to build AI tools with Python  
+- Experimenting with prompt engineering  
+- Building my first AI-powered projects  
 
 ---
 
-### 🚀 My Goals
-- Become an AI & LLM Developer  
-- Learn Machine Learning  
-- Build real-world AI projects  
-- Grow **PeachyCode** into a helpful tech community  
+### 🎯 My Focus Areas
+- 🤖 Artificial Intelligence & LLMs  
+- 🧠 Prompt Engineering  
+- 🐍 Python for Automation & AI  
+- 🌐 Web Development Basics  
+- 🎥 Tech Education on YouTube  
 
 ---
 
-### ⚡ Fun Fact
-I love turning complex AI topics into simple and beginner-friendly videos 🎬🤖
+### 💬 Ask Me About
+- Getting started with Python  
+- Learning AI & LLMs  
+- Prompt writing  
+- Tech content creation  
 
 ---
 
-### 📺 Latest PeachyCode Videos
-
+## 📺 Latest PeachyCode Videos
 <!-- YOUTUBE-CARDS -->
 <!-- YOUTUBE-CARDS:START -->
 <!-- YOUTUBE-CARDS:END -->
+
+---
+
+🌸 **Thanks for visiting PeachyCode!**  
+If you like AI, Python, and learning tech in a simple way, you’ll feel at home here 🍑
