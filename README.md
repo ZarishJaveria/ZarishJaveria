@@ -9,7 +9,7 @@
 I'm a fresher graduate passionate about **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.  
 I enjoy learning new technologies and sharing my journey through my YouTube channel **PeachyCode** 🍑.
 
-🔗 **YouTube:** https://www.youtube.com/@PeachyCode-j6x
+🔗 **YouTube:** https://www.youtube.com/@PeachyCode-j6x  
 
 ---
 
@@ -23,7 +23,7 @@ I enjoy learning new technologies and sharing my journey through my YouTube chan
 ---
 
 ### 🎥 About PeachyCode
-On my channel, I create content about:
+I create content about:
 - AI tools & LLMs  
 - Programming for beginners  
 - Tech tutorials  
@@ -50,11 +50,10 @@ On my channel, I create content about:
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZarishJaveria&show_icons=true&theme=radical&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarishJaveria&layout=compact&theme=radical&cache_seconds=1800"/>
+### 📌 GitHub Activity
+![Followers](https://img.shields.io/github/followers/ZarishJaveria?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ZarishJaveria?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue?style=for-the-badge)
 
 ---
 
