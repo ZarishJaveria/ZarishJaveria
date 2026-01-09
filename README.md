@@ -1,9 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=PeachyCode&fontSize=40&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=65"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat)
+
 ## Hi there 👋 I'm Zarish Javeria  
 
 🎓 **BCA Graduate | Beginner Python Learner | LLM & Prompt Engineering Enthusiast | Tech Content Creator**
 
 I'm a fresher graduate passionate about **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.  
 I enjoy learning new technologies and sharing my journey through my YouTube channel **PeachyCode** 🍑.
+
+🔗 **YouTube:** [PeachyCode](https://www.youtube.com/@PeachyCode-j6x)
 
 ---
 
@@ -16,14 +22,12 @@ I enjoy learning new technologies and sharing my journey through my YouTube chan
 
 ---
 
-### 🎥 My YouTube Channel — *PeachyCode*
-I create content about:
+### 🎥 About PeachyCode
+On my channel, I create content about:
 - AI tools & LLMs  
 - Programming for beginners  
 - Tech tutorials  
-- Learning & career guidance  
-
-🔗 **Watch here:** [PeachyCode on YouTube](https://www.youtube.com/@PeachyCode-j6x)
+- Career & learning guidance  
 
 ---
 
@@ -36,17 +40,28 @@ I create content about:
 
 ---
 
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Zarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarishJaveria&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarishJaveria&layout=compact&theme=radical)
+
+---
+
 ### 🚀 My Goals
 - Become an AI & LLM Developer  
 - Learn Machine Learning  
 - Build real-world AI projects  
 - Grow **PeachyCode** into a helpful tech community  
-
----
-
-### 📫 Connect With Me
-- GitHub: **ZarishJaveria**  
-- YouTube: [PeachyCode](https://www.youtube.com/@PeachyCode-j6x)
 
 ---
 
