@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=PeachyCode&fontSize=40&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=65"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat)
+<img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat"/>
 
 ## Hi there 👋 I'm Zarish Javeria  
 
@@ -9,7 +9,7 @@
 I'm a fresher graduate passionate about **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.  
 I enjoy learning new technologies and sharing my journey through my YouTube channel **PeachyCode** 🍑.
 
-🔗 **YouTube:** [PeachyCode](https://www.youtube.com/@PeachyCode-j6x)
+🔗 **YouTube:** https://www.youtube.com/@PeachyCode-j6x
 
 ---
 
@@ -51,9 +51,10 @@ On my channel, I create content about:
 ---
 
 ### 📊 GitHub Stats
-![Zarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarishJaveria&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarishJaveria&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ZarishJaveria&show_icons=true&theme=radical&cache_seconds=1800"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarishJaveria&layout=compact&theme=radical&cache_seconds=1800"/>
 
 ---
 
