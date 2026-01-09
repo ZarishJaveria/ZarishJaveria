@@ -96,43 +96,28 @@ through simple, beginner-friendly videos.
 
 ## 🎬 Featured PeachyCode Videos
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-▶ **ChatGPT vs Gemini**  
-🔗 https://youtu.be/EKGMV9Sa1GM?si=FFsg-gxa7XctcH6b  
+<a href="https://youtu.be/EKGMV9Sa1GM?si=FFsg-gxa7XctcH6b">
+  <img src="https://img.youtube.com/vi/EKGMV9Sa1GM/hqdefault.jpg" width="250"/>
+</a>
 
-</td>
-<td>
+<a href="https://youtu.be/t3i3xWeCoZc?si=zLIlvm1r0ujGJdC8">
+  <img src="https://img.youtube.com/vi/t3i3xWeCoZc/hqdefault.jpg" width="250"/>
+</a>
 
-▶ **Chai n Catch**  
-🔗 https://youtu.be/t3i3xWeCoZc?si=zLIlvm1r0ujGJdC8  
+<a href="https://youtu.be/UY0OcYIAht0?si=uBq5rWhHn4PtLSHt">
+  <img src="https://img.youtube.com/vi/UY0OcYIAht0/hqdefault.jpg" width="250"/>
+</a>
 
-</td>
-</tr>
-<tr>
-<td>
+</div>
 
-▶ **Building a Retro Game Hub**  
-🔗 https://youtu.be/UY0OcYIAht0?si=uBq5rWhHn4PtLSHt  
+<div align="center">
 
-</td>
-<td>
+**🍑 More on PeachyCode →**  
+[https://www.youtube.com/@PeachyCode-j6x](https://www.youtube.com/@PeachyCode-j6x)
 
-🍑 **More videos on PeachyCode**  
-👉 https://www.youtube.com/@PeachyCode-j6x  
-
-</td>
-</tr>
-</table>
-
----
-
-## 📺 Latest PeachyCode Videos
-<!-- YOUTUBE-CARDS -->
-<!-- YOUTUBE-CARDS:START -->
-<!-- YOUTUBE-CARDS:END -->
+</div>
 
 ---
 
