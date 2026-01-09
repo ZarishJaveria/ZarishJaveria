@@ -67,3 +67,11 @@ I create content about:
 
 ### ⚡ Fun Fact
 I love turning complex AI topics into simple and beginner-friendly videos 🎬🤖
+
+---
+
+### 📺 Latest PeachyCode Videos
+
+<!-- YOUTUBE-CARDS -->
+<!-- YOUTUBE-CARDS:START -->
+<!-- YOUTUBE-CARDS:END -->
