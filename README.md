@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there 👋 I'm Zarish Javeria  
 
-<!--
-**ZarishJaveria/ZarishJaveria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate | Beginner Python Learner | LLM & Prompt Engineering Enthusiast | Tech Content Creator**
 
-Here are some ideas to get you started:
+I'm a fresher graduate passionate about **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.  
+I enjoy learning new technologies and sharing my journey through my YouTube channel **PeachyCode** 🍑.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I'm Currently Learning
+- Python (Beginner Level)  
+- Prompt Engineering  
+- Large Language Models (LLMs)  
+- Basics of Artificial Intelligence  
+- Web Development  
+
+---
+
+### 🎥 My YouTube Channel — *PeachyCode*
+I create content about:
+- AI tools & LLMs  
+- Programming for beginners  
+- Tech tutorials  
+- Learning & career guidance  
+
+🔗 **Watch here:** [PeachyCode on YouTube](https://www.youtube.com/@PeachyCode-j6x)
+
+---
+
+### 💻 Skills
+- Python (Beginner)  
+- HTML & CSS  
+- Git & GitHub  
+- AI Prompting  
+- LLM Basics  
+
+---
+
+### 🚀 My Goals
+- Become an AI & LLM Developer  
+- Learn Machine Learning  
+- Build real-world AI projects  
+- Grow **PeachyCode** into a helpful tech community  
+
+---
+
+### 📫 Connect With Me
+- GitHub: **ZarishJaveria**  
+- YouTube: [PeachyCode](https://www.youtube.com/@PeachyCode-j6x)
+
+---
+
+### ⚡ Fun Fact
+I love turning complex AI topics into simple and beginner-friendly videos 🎬🤖
