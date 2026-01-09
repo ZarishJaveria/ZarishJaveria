@@ -1,0 +1,15 @@
+name: Update PeachyCode YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCZqX8qlJb0Y5J8j1H3kN8JQ
+          max_videos: 6
