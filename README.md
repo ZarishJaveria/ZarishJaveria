@@ -1,24 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=PeachyCode&fontSize=40&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=220&section=header&text=PeachyCode&fontSize=42&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=70"/>
 
-<img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ff69b4&style=flat"/>
+</p>
 
-## Hi there 👋 I'm Zarish Javeria  
-💡 *Building my journey in AI, LLMs, and Python — one project & one video at a time.*
+<h2 align="center">Hi there 👋 I'm Zarish Javeria</h2>
+<p align="center"><i>Building my journey in AI, LLMs, and Python — one project & one video at a time.</i></p>
 
-🎓 **BCA Graduate | Beginner Python Learner | LLM & Prompt Engineering Enthusiast | Tech Content Creator**
+<p align="center">
+🎓 <b>BCA Graduate</b> • 🐍 <b>Beginner Python Learner</b> • 🤖 <b>LLM & Prompt Engineering Enthusiast</b> • 🎥 <b>Tech Content Creator</b>
+</p>
 
-I'm a fresher graduate passionate about **Artificial Intelligence, Large Language Models (LLMs), and Prompt Engineering**.  
-I enjoy learning new technologies and sharing my journey through my YouTube channel **PeachyCode** 🍑.
-
-🔗 **YouTube:** https://www.youtube.com/@PeachyCode-j6x  
+<p align="center">
+<a href="https://www.youtube.com/@PeachyCode-j6x">
+  <img src="https://img.shields.io/badge/YouTube-PeachyCode-FF4C60?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🌱 What I’m Learning Right Now
+
 <div align="center">
 
-| 🧠 AI & LLMs | 🐍 Python | 🌐 Web | ✨ Prompting |
-|------------|---------|-------|-------------|
+| 🧠 **AI & LLMs** | 🐍 **Python** | 🌐 **Web** | ✨ **Prompting** |
+|----------------|--------------|-----------|----------------|
 | Large Language Models | Beginner Python | HTML & CSS | AI Prompt Engineering |
 | AI Fundamentals | Automation Basics | GitHub Pages | Prompt Design |
 
@@ -27,49 +33,39 @@ I enjoy learning new technologies and sharing my journey through my YouTube chan
 ---
 
 ## 🎥 PeachyCode — My Tech YouTube
+
 <div align="center">
 
 🍑 **PeachyCode** is where I share my journey into AI & coding  
-through simple, beginner-friendly videos.
+through **simple, beginner-friendly videos**.
 
 <br/>
 
-🚀 **What you’ll find here**
-  
-🤖 AI & LLMs  
-🐍 Python for beginners  
-🧠 Prompt engineering  
-💻 Tech tutorials  
+🤖 AI & LLMs &nbsp;&nbsp;•&nbsp;&nbsp; 🐍 Python &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 Prompt Engineering &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Tech Tutorials  
 
-<br/>
+<br/><br/>
 
-👉 **Watch here:**  
+👉 **Visit my channel:**  
 [https://www.youtube.com/@PeachyCode-j6x](https://www.youtube.com/@PeachyCode-j6x)
 
 </div>
 
 ---
 
-### 💻 Skills
-- Python (Beginner)  
-- HTML & CSS  
-- Git & GitHub  
-- AI Prompting  
-- LLM Basics  
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 🔭 What I’m Working On
+## 🔭 What I’m Working On
 - Creating beginner-friendly AI & LLM tutorials on PeachyCode  
 - Learning how to build AI tools with Python  
 - Experimenting with prompt engineering  
@@ -77,49 +73,49 @@ through simple, beginner-friendly videos.
 
 ---
 
-### 🎯 My Focus Areas
-- 🤖 Artificial Intelligence & LLMs  
-- 🧠 Prompt Engineering  
-- 🐍 Python for Automation & AI  
-- 🌐 Web Development Basics  
-- 🎥 Tech Education on YouTube  
-
----
-
-### 💬 Ask Me About
-- Getting started with Python  
-- Learning AI & LLMs  
-- Prompt writing  
-- Tech content creation  
+## 🎯 My Focus Areas
+🤖 AI & LLMs • 🧠 Prompt Engineering • 🐍 Python • 🌐 Web Dev • 🎥 Tech Education  
 
 ---
 
 ## 🎬 Featured PeachyCode Videos
 
-<div align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://youtu.be/EKGMV9Sa1GM?si=FFsg-gxa7XctcH6b">
-  <img src="https://img.youtube.com/vi/EKGMV9Sa1GM/hqdefault.jpg" width="250"/>
+<img src="https://img.youtube.com/vi/EKGMV9Sa1GM/maxresdefault.jpg" width="280"/><br/>
+<b>ChatGPT vs Gemini</b>
 </a>
+</td>
 
+<td align="center">
 <a href="https://youtu.be/t3i3xWeCoZc?si=zLIlvm1r0ujGJdC8">
-  <img src="https://img.youtube.com/vi/t3i3xWeCoZc/hqdefault.jpg" width="250"/>
+<img src="https://img.youtube.com/vi/t3i3xWeCoZc/maxresdefault.jpg" width="280"/><br/>
+<b>Chai n Catch</b>
 </a>
+</td>
 
+<td align="center">
 <a href="https://youtu.be/UY0OcYIAht0?si=uBq5rWhHn4PtLSHt">
-  <img src="https://img.youtube.com/vi/UY0OcYIAht0/hqdefault.jpg" width="250"/>
+<img src="https://img.youtube.com/vi/UY0OcYIAht0/maxresdefault.jpg" width="280"/><br/>
+<b>Retro Game Hub</b>
 </a>
+</td>
 
-</div>
+</tr>
+</table>
 
-<div align="center">
-
-**🍑 More on PeachyCode →**  
-[https://www.youtube.com/@PeachyCode-j6x](https://www.youtube.com/@PeachyCode-j6x)
-
-</div>
+<p align="center">
+<a href="https://www.youtube.com/@PeachyCode-j6x">
+  <img src="https://img.shields.io/badge/Watch%20More%20on%20YouTube-PeachyCode-FFB6C1?style=for-the-badge&logo=youtube&logoColor=black"/>
+</a>
+</p>
 
 ---
 
-🌸 **Thanks for visiting PeachyCode!**  
-If you like AI, Python, and learning tech in a simple way, you’ll feel at home here 🍑
+<p align="center">
+🌸 <b>Thanks for visiting PeachyCode!</b><br/>
+If you love AI, Python, and learning tech in a simple way — you’re in the right place 🍑
+</p>
