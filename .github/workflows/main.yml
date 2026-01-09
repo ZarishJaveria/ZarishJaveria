@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCZqX8qlJb0Y5J8j1H3kN8JQ
+          channel_id: UC2OZVYn11sPRNcQknXg1svQ
           max_videos: 6
