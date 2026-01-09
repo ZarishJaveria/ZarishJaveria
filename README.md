@@ -94,6 +94,41 @@ through simple, beginner-friendly videos.
 
 ---
 
+## 🎬 Featured PeachyCode Videos
+
+<table>
+<tr>
+<td>
+
+▶ **ChatGPT vs Gemini**  
+🔗 https://youtu.be/EKGMV9Sa1GM?si=FFsg-gxa7XctcH6b  
+
+</td>
+<td>
+
+▶ **Chai n Catch**  
+🔗 https://youtu.be/t3i3xWeCoZc?si=zLIlvm1r0ujGJdC8  
+
+</td>
+</tr>
+<tr>
+<td>
+
+▶ **Building a Retro Game Hub**  
+🔗 https://youtu.be/UY0OcYIAht0?si=uBq5rWhHn4PtLSHt  
+
+</td>
+<td>
+
+🍑 **More videos on PeachyCode**  
+👉 https://www.youtube.com/@PeachyCode-j6x  
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📺 Latest PeachyCode Videos
 <!-- YOUTUBE-CARDS -->
 <!-- YOUTUBE-CARDS:START -->
