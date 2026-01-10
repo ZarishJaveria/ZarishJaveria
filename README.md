@@ -1,5 +1,5 @@
 <!-- 🌸 PeachyCode UI Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFD6E8,DCC6FF,C7EDE6&height=250&text=PeachyCode&fontSize=46&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&text=PeachyCode&fontSize=46&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=70"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ffb6c1&style=flat"/>
