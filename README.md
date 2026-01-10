@@ -1,5 +1,4 @@
-<!-- 🌸 PeachyCode UI Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&text=PeachyCode&fontSize=46&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=240&text=PeachyCode&fontSize=44&fontColor=ffffff&desc=AI%20%7C%20LLMs%20%7C%20Python%20Learner&descAlignY=70"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZarishJaveria&color=ffb6c1&style=flat"/>
@@ -20,44 +19,31 @@
 
 ---
 
-<!-- 🌱 Learning UI Panel -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C7EDE6&height=4"/>
-<h2>🌱 What I'm Learning</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C7EDE6&height=3"/>
 
-<table>
-<tr>
-<td>🤖 <b>AI & LLMs</b><br/>ChatGPT, Gemini, LLM behavior</td>
-<td>🐍 <b>Python</b><br/>Beginner scripting & automation</td>
-<td>🌐 <b>Web</b><br/>HTML, CSS, GitHub Pages</td>
-<td>✨ <b>Prompting</b><br/>Prompt design & tuning</td>
-</tr>
-</table>
+## 🌱 What I'm Learning
+**AI & LLMs** — ChatGPT, Gemini, LLM behavior  
+**Python** — Beginner scripting & automation  
+**Web** — HTML, CSS, GitHub Pages  
+**Prompting** — Prompt design & tuning  
 
 ---
 
-<!-- 🎥 Channel UI -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFD6E8&height=80&text=🎥%20PeachyCode%20YouTube&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD6E8&height=3"/>
 
-<div align="center">
+## 🎥 PeachyCode on YouTube
+🍑 **PeachyCode** is my tech channel where I share my journey into  
+AI, LLMs, Python, and calm, creative coding.
 
-**PeachyCode** is my pastel-powered tech space  
-where I explore **AI, LLMs & coding** in a calm, creative way.
+🤖 AI • 🐍 Python • 🧠 Prompt Engineering • 💻 Tech Tutorials  
 
-🤖 AI • 🐍 Python • 🧠 Prompting • 💻 Tech Tutorials  
-
-<br/>
-
-<a href="https://www.youtube.com/@PeachyCode-j6x">
-  <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FFB6C1?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
-</a>
-
-</div>
+👉 https://www.youtube.com/@PeachyCode-j6x
 
 ---
 
-<!-- 🛠 Stack UI -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=DCC6FF&height=80&text=🛠%20Tech%20Stack&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DCC6FF&height=3"/>
 
+## 🛠 Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD6E8?style=for-the-badge&logo=python&logoColor=4B2C5E"/>
 <img src="https://img.shields.io/badge/HTML-FFEEE5?style=for-the-badge&logo=html5&logoColor=4B2C5E"/>
@@ -68,9 +54,9 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 ---
 
-<!-- 🔭 Work UI -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=C7EDE6&height=80&text=🔭%20What%20I'm%20Working%20On&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C7EDE6&height=3"/>
 
+## 🔭 What I'm Working On
 - 🎥 Growing PeachyCode  
 - 🤖 Understanding how LLMs think  
 - 🐍 Building Python tools  
@@ -78,8 +64,9 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 ---
 
-<!-- 🎬 Videos UI -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=90&text=%20Featured%20Videos&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3"/>
+
+## 🎬 Featured Videos
 
 <table align="center">
 <tr>
@@ -116,5 +103,5 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 <p align="center">
 🌸 <b>Welcome to PeachyCode</b><br/>
-Soft colors • Calm coding • AI learning 
+AI • Python • Calm Coding
 </p>
