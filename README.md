@@ -21,7 +21,8 @@
 ---
 
 <!-- 🌱 Learning UI Panel -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=C7EDE6&height=80&text=🌱%20What%20I'm%20Learning&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C7EDE6&height=4"/>
+<h2>🌱 What I'm Learning</h2>
 
 <table>
 <tr>
