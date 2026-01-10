@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@PeachyCode-j6x">
-  <img src="https://img.shields.io/badge/🍑%20Visit%20PeachyCode-FFB6C1?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
+  <img src="https://img.shields.io/badge/%20Visit%20PeachyCode-FFB6C1?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
 </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-🍑 **PeachyCode** is my pastel-powered tech space  
+ **PeachyCode** is my pastel-powered tech space  
 where I explore **AI, LLMs & coding** in a calm, creative way.
 
 🤖 AI • 🐍 Python • 🧠 Prompting • 💻 Tech Tutorials  
@@ -78,7 +78,7 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 ---
 
 <!-- 🎬 Videos UI -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=90&text=🍑%20Featured%20Videos&fontColor=4B2C5E"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=90&text=%20Featured%20Videos&fontColor=4B2C5E"/>
 
 <table align="center">
 <tr>
@@ -107,7 +107,7 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 <p align="center">
 <a href="https://www.youtube.com/@PeachyCode-j6x">
-  <img src="https://img.shields.io/badge🍑%20More%20Videos-FFD6E8?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
+  <img src="https://img.shields.io/badge%20More%20Videos-FFD6E8?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
 </a>
 </p>
 
@@ -115,5 +115,5 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 <p align="center">
 🌸 <b>Welcome to PeachyCode</b><br/>
-Soft colors • Calm coding • AI learning 🍑
+Soft colors • Calm coding • AI learning 
 </p>
