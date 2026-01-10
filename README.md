@@ -117,5 +117,5 @@ through **simple, beginner-friendly videos**.
 
 <p align="center">
 🌸 <b>Thanks for visiting PeachyCode!</b><br/>
-If you love AI, Python, and learning tech in a simple way — you’re in the right place 🍑
+If you love AI, Python, and learning tech in a simple way — you’re in the right place 
 </p>
