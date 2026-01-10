@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@PeachyCode-j6x">
-  <img src="https://img.shields.io/badge/%20Visit%20PeachyCode-FFB6C1?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
+  <img src="https://img.shields.io/badge/Visit%20PeachyCode-FFB6C1?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
 </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
- **PeachyCode** is my pastel-powered tech space  
+**PeachyCode** is my pastel-powered tech space  
 where I explore **AI, LLMs & coding** in a calm, creative way.
 
 🤖 AI • 🐍 Python • 🧠 Prompting • 💻 Tech Tutorials  
@@ -107,7 +107,7 @@ where I explore **AI, LLMs & coding** in a calm, creative way.
 
 <p align="center">
 <a href="https://www.youtube.com/@PeachyCode-j6x">
-  <img src="https://img.shields.io/badge%20More%20Videos-FFD6E8?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
+  <img src="https://img.shields.io/badge/More%20Videos-FFD6E8?style=for-the-badge&logo=youtube&logoColor=4B2C5E"/>
 </a>
 </p>
 
